@@ -1,4 +1,4 @@
-# Modules Manager for ProcessWire2.+
+# Modules Manager for ProcessWire3.+
 
 Module Manager enables you to browse the modules directory on modules.processwire.com, download, install or update them.
 
